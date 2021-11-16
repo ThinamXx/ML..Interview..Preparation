@@ -2,6 +2,7 @@
 
 **RESOURCES:**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
+- [**HackerRank**](https://www.hackerrank.com/dashboard)
 
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
@@ -12,3 +13,4 @@
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20String.PNG) |
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Move%20Zeroes.PNG) |
 | 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/ReverseLinkedList.PNG) |
+| 8. [Revising Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Query.PNG) |
