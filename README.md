@@ -20,4 +20,4 @@
 | 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select.PNG) |
 | 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20I.PNG) |
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sqrt.PNG) |
-| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/tree/main/Images) |
+| 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Array.PNG) |
