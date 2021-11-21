@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) |
@@ -23,3 +22,4 @@
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sqrt.PNG) |
 | 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Array.PNG) |
 | 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Majority%20Element.PNG) |
+| 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Character.PNG) |
