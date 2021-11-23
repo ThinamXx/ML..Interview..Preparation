@@ -25,3 +25,4 @@
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Character.PNG) |
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
+| 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
