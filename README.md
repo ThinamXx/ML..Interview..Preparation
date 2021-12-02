@@ -32,3 +32,4 @@
 | 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
 | 23. [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) |
 | 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) | ✅ | [Image](https://leetcode.com/problems/valid-palindrome/submissions/) |
+| 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
