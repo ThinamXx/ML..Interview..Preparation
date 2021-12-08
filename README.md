@@ -35,3 +35,4 @@
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
 | 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Depth.PNG) |
 | 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sorted%20Array.PNG) |
+| 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Subarray.PNG) |
