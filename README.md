@@ -38,3 +38,4 @@
 | 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Subarray.PNG) |
 | 24. [Power of Three](https://leetcode.com/problems/power-of-three/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Three.PNG) | 
 | 25. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20Column.PNG) |
+| 26. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20ColumnI.PNG) |
