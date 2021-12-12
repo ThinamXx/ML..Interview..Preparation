@@ -6,6 +6,7 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
+**EASY QUESTION:**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) |
@@ -40,3 +41,4 @@
 | 25. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20Column.PNG) |
 | 26. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20ColumnI.PNG) |
 | 27. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number.PNG) |
+| 28. [Single Number](https://leetcode.com/problems/single-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Number.PNG) |
