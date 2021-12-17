@@ -43,3 +43,4 @@
 | 27. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number.PNG) |
 | 28. [Single Number](https://leetcode.com/problems/single-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Number.PNG) |
 | 29. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) |
+| 30. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
