@@ -45,3 +45,4 @@
 | 29. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) |
 | 30. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
 | 31. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Fizz%20Buzz.PNG) |
+| 32. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) |
