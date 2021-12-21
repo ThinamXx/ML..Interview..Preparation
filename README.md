@@ -50,3 +50,5 @@
 | 34. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Symmetric%20Tree.PNG) |
 | 35. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Absolute.PNG) |
 | 36. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Two.PNG) |
+| 37. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Adding%20Binary.PNG) |
+| 38. [Intersection of Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20Node%20in%20SLI.PNG) |
