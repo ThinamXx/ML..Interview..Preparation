@@ -57,3 +57,5 @@
 | 41. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Invert%20Tree.PNG) |
 | 41. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Bad%20Version.PNG) |
 | 42. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Strings.PNG) |
+| 43. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subarray.PNG) |
+| 44. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20II.PNG) | 
