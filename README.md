@@ -59,3 +59,5 @@
 | 42. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Strings.PNG) |
 | 43. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subarray.PNG) |
 | 44. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20II.PNG) | 
+| 45. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Email%20Addresses.PNG) |
+| 46. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Alien%20Dictionary.PNG) |
