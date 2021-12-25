@@ -61,3 +61,4 @@
 | 44. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20II.PNG) | 
 | 45. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Email%20Addresses.PNG) |
 | 46. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Alien%20Dictionary.PNG) |
+| 47. [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Squares%20of%20Sorted%20Array.PNG) | 
