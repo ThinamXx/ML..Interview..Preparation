@@ -49,3 +49,15 @@
 | 33. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) |
 | 34. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Symmetric%20Tree.PNG) |
 | 35. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Absolute.PNG) |
+| 36. [Power of Two](https://leetcode.com/problems/power-of-two/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Two.PNG) |
+| 37. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Adding%20Binary.PNG) |
+| 38. [Intersection of Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20Node%20in%20SLI.PNG) |
+| 39. [Implement Str](https://leetcode.com/problems/implement-strstr/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Str.PNG) | 
+| 40. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20LinkedList.PNG) |
+| 41. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Invert%20Tree.PNG) |
+| 41. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Bad%20Version.PNG) |
+| 42. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Strings.PNG) |
+| 43. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subarray.PNG) |
+| 44. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20II.PNG) | 
+| 45. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Email%20Addresses.PNG) |
+| 46. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Alien%20Dictionary.PNG) |
