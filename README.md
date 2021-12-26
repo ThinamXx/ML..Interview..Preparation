@@ -68,3 +68,4 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers.PNG) |
+| 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring.PNG) |
