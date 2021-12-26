@@ -6,7 +6,7 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-**EASY QUESTION**
+**EASY QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) |
@@ -63,3 +63,8 @@
 | 46. [Verifying Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Alien%20Dictionary.PNG) |
 | 47. [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Squares%20of%20Sorted%20Array.PNG) | 
 | 48. [Remove All Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Adjacent.PNG) |
+
+**MEDIUM QUESTIONS**
+| Name of Question | Status of Completion | Solution |
+| ----- | -----| ----- |
+| 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers.PNG) |
