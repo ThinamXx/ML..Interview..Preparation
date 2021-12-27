@@ -71,3 +71,4 @@
 | 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring.PNG) |
 | 3. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Letter%20Combinations.PNG) |
 | 4. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Nth%20Node.PNG) | 
+| 5. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Divide.PNG) |
