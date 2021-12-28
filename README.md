@@ -77,3 +77,4 @@
 | 8. [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum.PNG) | 
 | 9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II.PNG) |
 | 10. [Permutations](https://leetcode.com/problems/permutations/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations.PNG) |
+| 11. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Intervals.PNG) |
