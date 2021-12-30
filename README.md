@@ -80,3 +80,4 @@
 | 11. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Intervals.PNG) |
 | 12. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths%20II.PNG) | 
 | 13. [Simplify Path](https://leetcode.com/problems/simplify-path/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Simplify%20Path.PNG) |
+| 14. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) |
