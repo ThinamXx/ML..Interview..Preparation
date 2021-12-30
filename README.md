@@ -83,3 +83,4 @@
 | 14. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) |
 | 15. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Level%20Order.PNG) |
 | 16. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Construct%20Binary%20Tree.PNG) |
+| 17. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Populating%20Next%20Right.PNG) | 
