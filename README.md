@@ -30,7 +30,7 @@
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
-| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
+| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅ ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
 | 23. [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) |
 | 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) | ✅ | [Image](https://leetcode.com/problems/valid-palindrome/submissions/) |
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
