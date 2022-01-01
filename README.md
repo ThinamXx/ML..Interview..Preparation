@@ -10,7 +10,7 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) |
-| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Roman2Integer.PNG) |
+| 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Roman2Integer.PNG) |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LCP.PNG) |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection.PNG) |
 | 5. [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20String.PNG) |
@@ -27,11 +27,11 @@
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
-| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) |
+| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
-| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅ ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
-| 23. [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅ ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) |
+| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
+| 23. [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) |
 | 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) | ✅ | [Image](https://leetcode.com/problems/valid-palindrome/submissions/) |
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
 | 26. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Depth.PNG) |
