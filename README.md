@@ -89,3 +89,4 @@
 | 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List.PNG) |
 | 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Break.PNG) |
 | 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) |
+| 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree.PNG) | 
