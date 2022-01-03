@@ -92,4 +92,4 @@
 | 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) |
 | 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree.PNG) | 
 | 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Array.PNG) |
-
+| 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Right%20Node.PNG) | 
