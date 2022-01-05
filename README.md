@@ -65,6 +65,7 @@
 | 48. [Remove All Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Adjacent.PNG) |
 | 49. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Cycle.PNG) | 
 | 50. [Find All Numbers Disappeared in Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Find%20Numbers.PNG) | 
+| 51. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Range%20Sum.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
