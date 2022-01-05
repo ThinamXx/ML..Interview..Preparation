@@ -53,7 +53,7 @@
 | 37. [Add Binary](https://leetcode.com/problems/add-binary/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Adding%20Binary.PNG) |
 | 38. [Intersection of Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20Node%20in%20SLI.PNG) |
 | 39. [Implement Str](https://leetcode.com/problems/implement-strstr/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Str.PNG) | 
-| 40. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20LinkedList.PNG) |
+| 40. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20LinkedList.PNG) |
 | 41. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Invert%20Tree.PNG) |
 | 41. [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Bad%20Version.PNG) |
 | 42. [Add Strings](https://leetcode.com/problems/add-strings/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Strings.PNG) |
