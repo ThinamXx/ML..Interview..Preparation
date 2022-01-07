@@ -72,6 +72,7 @@
 | 51. [Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Range%20Sum.PNG) |
 | 52. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindrome%20Linked%20List.PNG) |
 | 53. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates%20List.PNG) |
+| 54. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Index.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
