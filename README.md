@@ -75,6 +75,7 @@
 | 54. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Index.PNG) |
 | 55. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Average%20of%20Levels.PNG) |
 | 56. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Depth.PNG) | 
+| 57. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
