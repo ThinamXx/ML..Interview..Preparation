@@ -77,6 +77,7 @@
 | 56. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Depth.PNG) | 
 | 57. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) |
 | 58. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum.PNG) |
+| 59. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
