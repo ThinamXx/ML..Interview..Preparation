@@ -78,6 +78,7 @@
 | 57. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) |
 | 58. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum.PNG) |
 | 59. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT.PNG) |
+| 60. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Descendent.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
