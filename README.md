@@ -80,6 +80,7 @@
 | 65. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT.PNG) |
 | 66. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Descendent.PNG) | 
 | 67. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20another%20Tree.PNG) |
+| 68. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Backspace%20String.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
