@@ -114,3 +114,4 @@
 | 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Add%20and%20Search.PNG) | 
 | 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
 | 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Largest%20Element.PNG) | 
+| 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/The%20Pads.PNG) | 
