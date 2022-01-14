@@ -112,3 +112,4 @@
 | 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule.PNG) |
 | 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20II.PNG) |
 | 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Add%20and%20Search.PNG) | 
+| 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
