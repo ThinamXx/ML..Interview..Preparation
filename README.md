@@ -116,3 +116,4 @@
 | 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Largest%20Element.PNG) | 
 | 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/The%20Pads.PNG) | 
 | 31. [Basic Calculator](https://leetcode.com/problems/basic-calculator-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Basic%20Calculator%20II.PNG) | 
+| 32. [Lowest Common Ancestor of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Binary.PNG) | 
