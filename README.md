@@ -121,4 +121,4 @@
 | 33. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Product%20of%20Array.PNG) | 
 | 34. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peeking%20Iterator.PNG) | 
 | 35. [Coin Change](https://leetcode.com/problems/coin-change/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Coin%20Change.PNG) |
-| 37. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Cycle%20II.PNG) | 
+| 36. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Cycle%20II.PNG) | 
