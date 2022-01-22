@@ -125,3 +125,4 @@
 | 37. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Koko.PNG) |
 | 38. [Gas Station](https://leetcode.com/problems/gas-station/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Gas%20Station.PNG) |
 | 39. [Decode String](https://leetcode.com/problems/decode-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Decode%20String.PNG) |
+| 40. [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Integer%20Replacement.PNG) | 
