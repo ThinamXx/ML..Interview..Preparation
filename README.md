@@ -127,3 +127,4 @@
 | 39. [Decode String](https://leetcode.com/problems/decode-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Decode%20String.PNG) |
 | 40. [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Integer%20Replacement.PNG) | 
 | 41. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Partition%20Equal.PNG) | 
+| 43. [Sequential Digits](https://leetcode.com/problems/sequential-digits/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sequential%20Digits.PNG) |
