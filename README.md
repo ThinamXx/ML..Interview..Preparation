@@ -129,3 +129,4 @@
 | 41. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Partition%20Equal.PNG) | 
 | 43. [Sequential Digits](https://leetcode.com/problems/sequential-digits/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sequential%20Digits.PNG) |
 | 44. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pacific%20Atlantic.PNG) |
+| 45. [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum%20III.PNG) | 
