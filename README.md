@@ -132,3 +132,4 @@
 | 44. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pacific%20Atlantic.PNG) |
 | 45. [Path Sum III](https://leetcode.com/problems/path-sum-iii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum%20III.PNG) | 
 | 46. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Continuous%20Subarray%20Sum.PNG) | 
+| 47. [Single ELement in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Element.PNG) | 
