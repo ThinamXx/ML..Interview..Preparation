@@ -140,3 +140,4 @@
 | 52. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Top%20K%20Frequent%20Words.PNG) | 
 | 53. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/UTF-8.PNG) | 
 | 54. [Accounts Merge](https://leetcode.com/problems/accounts-merge/submissions/) | ✅ | [DFS](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Accounts%20Merge%20a.PNG) [Union](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Accounts%20Merge%20b.PNG) | 
+| 55. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | ✅ | [DFS](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree%20All.PNG) | 
