@@ -138,3 +138,4 @@
 | 50. [Find K Closest Elementsl](https://leetcode.com/problems/find-k-closest-elements/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest.PNG) | 
 | 51. [Maximum Swap](https://leetcode.com/problems/maximum-swap/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Swap.PNG) |
 | 52. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Top%20K%20Frequent%20Words.PNG) | 
+| 53. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/UTF-8.PNG) | 
