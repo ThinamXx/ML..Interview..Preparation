@@ -152,3 +152,4 @@
 | 60. [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Occupations.PNG) |
 | 61. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Add.PNG) | 
 | 62. [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Check%20Completeness.PNG) | 
+| 63. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Element.PNG) | 
