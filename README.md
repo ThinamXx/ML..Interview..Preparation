@@ -84,6 +84,7 @@
 | 68. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Backspace%20String.PNG) | 
 | 69. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Pattern.PNG) | 
 | 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle.PNG) |
+| 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Even%20Digits.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
