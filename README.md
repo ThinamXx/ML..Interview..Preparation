@@ -154,3 +154,8 @@
 | 62. [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Check%20Completeness.PNG) | 
 | 63. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Element.PNG) | 
 | 64. [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Search%20a.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Search%20b.PNG) | 
+
+**HARD QUESTIONS**
+| Name of Question | Status of Completion | Solution |
+| ----- | -----| ----- |
+| 1. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Split%20Array.PNG) |
