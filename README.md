@@ -161,3 +161,4 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Split%20Array.PNG) |
+| 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Missing%20Positive.PNG) | 
