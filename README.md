@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -160,6 +159,7 @@
 | 65. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicate%20Number.PNG) |
 | 66. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/All%20Duplicates.PNG) | 
 | 67. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Spiral%20Matrix.PNG) | 
+| 68. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pancake%20Sorting.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
