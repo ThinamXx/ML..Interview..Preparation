@@ -160,6 +160,7 @@
 | 66. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/All%20Duplicates.PNG) | 
 | 67. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Spiral%20Matrix.PNG) | 
 | 68. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pancake%20Sorting.PNG) | 
+| 69. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest%20Points.PNG) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
