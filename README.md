@@ -161,6 +161,7 @@
 | 67. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Spiral%20Matrix.PNG) | 
 | 68. [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pancake%20Sorting.PNG) | 
 | 69. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest%20Points.PNG) |
+| 70. [Permutations in String](https://leetcode.com/problems/permutation-in-string/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20in%20String.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
