@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -164,6 +163,7 @@
 | 69. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest%20Points.PNG) |
 | 70. [Permutations in String](https://leetcode.com/problems/permutation-in-string/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20in%20String.PNG) | 
 | 71. [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20Integer.PNG) | 
+| 72. [Subsets](https://leetcode.com/problems/subsets/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subset.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
