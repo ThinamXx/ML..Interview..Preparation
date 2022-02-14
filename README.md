@@ -164,6 +164,7 @@
 | 70. [Permutations in String](https://leetcode.com/problems/permutation-in-string/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20in%20String.PNG) | 
 | 71. [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20Integer.PNG) | 
 | 72. [Subsets](https://leetcode.com/problems/subsets/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subset.PNG) | 
+| 73. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Cost.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
