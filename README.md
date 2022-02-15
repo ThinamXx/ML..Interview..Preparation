@@ -165,6 +165,7 @@
 | 71. [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20Integer.PNG) | 
 | 72. [Subsets](https://leetcode.com/problems/subsets/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subset.PNG) | 
 | 73. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Cost.PNG) | 
+| 74. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Palindromic.PNG) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
