@@ -166,6 +166,7 @@
 | 72. [Subsets](https://leetcode.com/problems/subsets/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subset.PNG) | 
 | 73. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Cost.PNG) | 
 | 74. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Palindromic.PNG) |
+| 75. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Swap%20Nodes.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
