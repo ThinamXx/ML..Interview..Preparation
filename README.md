@@ -169,6 +169,7 @@
 | 74. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Palindromic.PNG) |
 | 75. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Swap%20Nodes.PNG) | 
 | 76. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Container%20With%20Water.PNG) | 
+| 77. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum%20II.PNG) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
