@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -171,6 +170,7 @@
 | 76. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Container%20With%20Water.PNG) | 
 | 77. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum%20II.PNG) |
 | 78. [3Sum](https://leetcode.com/problems/3sum/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/3%20Sum.PNG) | 
+| 79. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Generate%20Parentheses.PNG) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
