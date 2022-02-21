@@ -171,6 +171,7 @@
 | 77. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum%20II.PNG) |
 | 78. [3Sum](https://leetcode.com/problems/3sum/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/3%20Sum.PNG) | 
 | 79. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Generate%20Parentheses.PNG) |
+| 80. [Reorder List](https://leetcode.com/problems/reorder-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reorder%20List.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
