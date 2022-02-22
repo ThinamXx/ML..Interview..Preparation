@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -43,7 +42,7 @@
 | 27. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sorted%20Array.PNG) |
 | 28. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | ✅✅| [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Subarray.PNG) |
 | 29. [Power of Three](https://leetcode.com/problems/power-of-three/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Power%20of%20Three.PNG) | 
-| 30. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20Column.PNG) |
+| 30. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20Column.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet.PNG) |
 | 31. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20ColumnI.PNG) |
 | 32. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number%20Java.PNG) |
 | 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Number.PNG) |
