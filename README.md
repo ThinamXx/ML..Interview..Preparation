@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -111,7 +110,7 @@
 | 15. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Level%20Order.PNG) |
 | 16. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Construct%20Binary%20Tree.PNG) |
 | 17. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Populating%20Next%20Right.PNG) | 
-| 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graph.PNG) | 
+| 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graph.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graphh.PNG) | 
 | 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List.PNG) |
 | 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Break.PNG) |
 | 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) |
