@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -175,6 +174,7 @@
 | 80. [Reorder List](https://leetcode.com/problems/reorder-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reorder%20List.PNG) | 
 | 81. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Trie.PNG) | 
 | 82. [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sort%20Colors.PNG) | 
+| 83. [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Count%20Sub%20Islands.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
