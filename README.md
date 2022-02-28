@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -90,6 +89,7 @@
 | 74. [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Set%20Mismatch.PNG) | 
 | 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flipping%20Image.PNG) | 
 | 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reduce.PNG) | 
+| 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Happy%20Number.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
