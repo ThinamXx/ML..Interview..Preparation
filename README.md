@@ -90,6 +90,7 @@
 | 75. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flipping%20Image.PNG) | 
 | 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reduce.PNG) | 
 | 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Happy%20Number.PNG) | 
+| 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Middle.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
