@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
@@ -174,7 +173,7 @@
 | 77. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum%20II.PNG) |
 | 78. [3Sum](https://leetcode.com/problems/3sum/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/3%20Sum.PNG) | 
 | 79. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Generate%20Parentheses.PNG) |
-| 80. [Reorder List](https://leetcode.com/problems/reorder-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reorder%20List.PNG) | 
+| 80. [Reorder List](https://leetcode.com/problems/reorder-list/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reorder%20List.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LinkedList%20J1.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LinkedList%20J2.PNG) | 
 | 81. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Trie.PNG) | 
 | 82. [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sort%20Colors.PNG) | 
 | 83. [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Count%20Sub%20Islands.PNG) | 
