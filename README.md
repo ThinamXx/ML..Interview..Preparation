@@ -143,7 +143,7 @@
 | 47. [Single ELement in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Element.PNG) | 
 | 48. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subarray%20Sum.PNG) | 
 | 49. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Circular%20a.PNG) [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Circular%20b.PNG) | 
-| 50. [Find K Closest Elementsl](https://leetcode.com/problems/find-k-closest-elements/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest.PNG) | 
+| 50. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Closest.PNG) | 
 | 51. [Maximum Swap](https://leetcode.com/problems/maximum-swap/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20Swap.PNG) |
 | 52. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Top%20K%20Frequent%20Words.PNG) | 
 | 53. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/UTF-8.PNG) | 
