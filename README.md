@@ -182,6 +182,7 @@
 | 86. [Rotate List](https://leetcode.com/problems/rotate-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20List.PNG) |
 | 87. [Word Search](https://leetcode.com/problems/word-search/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Search.PNG) | 
 | 88. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Frequent%20Elements.PNG) | 
+| 89. [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
