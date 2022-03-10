@@ -183,6 +183,7 @@
 | 87. [Word Search](https://leetcode.com/problems/word-search/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Search.PNG) | 
 | 88. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Frequent%20Elements.PNG) | 
 | 89. [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths.PNG) | 
+| 90. [Permutations II](https://leetcode.com/problems/permutations-ii/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20II.PNG) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
