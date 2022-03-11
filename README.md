@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -92,6 +91,7 @@
 | 76. [Number of Steps to Reduce Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reduce.PNG) | 
 | 77. [Happy Number](https://leetcode.com/problems/happy-number/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Happy%20Number.PNG) | 
 | 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Middle.PNG) | 
+| 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Balanced%20Binary%20Tree.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
