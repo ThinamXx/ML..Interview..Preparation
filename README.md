@@ -21,15 +21,15 @@
 | 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Move%20Zeroes.PNG) |
 | 7. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/ReverseLinkedList.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20Linked%20List.PNG) |
 | 8. [Revising Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Query.PNG) |
-| 9. [Revising Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Query%20I.PNG) |
-| 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select.PNG) |
-| 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20I.PNG) |
+| 9. [Revising Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Query%20I.PNG) |
+| 10. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select.PNG) |
+| 11. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20I.PNG) |
 | 12. [Sqrt](https://leetcode.com/problems/sqrtx/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sqrt.PNG) |
 | 13. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Array.PNG) |
 | 14. [Majority Element](https://leetcode.com/problems/majority-element/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Majority%20Element.PNG) |
 | 15. [First Unique Character in String](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Character.PNG) |
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) |
-| 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
+| 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
@@ -82,7 +82,7 @@
 | 67. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20another%20Tree.PNG) |
 | 68. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Backspace%20String.PNG) | 
 | 69. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Pattern.PNG) | 
-| 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle.PNG) |
+| 70. [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle.PNG) |
 | 71. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Even%20Digits.PNG) |
 | 72. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Wealth.PNG) | 
 | 73. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Smallest%20Letter.PNG) | 
@@ -93,6 +93,7 @@
 | 78. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Linked%20List%20Middle.PNG) | 
 | 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Balanced%20Binary%20Tree.PNG) | 
 | 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Two%20Binary%20Trees.PNG) | 
+| 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combine%20Two%20Tables.PNG) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
@@ -126,7 +127,7 @@
 | 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Add%20and%20Search.PNG) | 
 | 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
 | 29. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Largest%20Element.PNG) | 
-| 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/The%20Pads.PNG) | 
+| 30. [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/The%20Pads.PNG) | 
 | 31. [Basic Calculator](https://leetcode.com/problems/basic-calculator-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Basic%20Calculator%20II.PNG) | 
 | 32. [Lowest Common Ancestor of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Binary.PNG) | 
 | 33. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Product%20of%20Array.PNG) | 
@@ -155,7 +156,7 @@
 | 57. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Cheapest%20Flights.PNG) | 
 | 58. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20XOR%20a.PNG) [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Maximum%20XOR%20b.PNG) |
 | 59. [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/All%20Nodes%20a.PNG) [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/All%20Nodes%20b.PNG) | 
-| 60. [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Occupations.PNG) |
+| 60. [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Occupations.PNG) |
 | 61. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Add.PNG) | 
 | 62. [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Check%20Completeness.PNG) | 
 | 63. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Peak%20Element.PNG) | 
