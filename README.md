@@ -94,6 +94,7 @@
 | 79. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Balanced%20Binary%20Tree.PNG) | 
 | 80. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Two%20Binary%20Trees.PNG) | 
 | 81. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/submissions/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combine%20Two%20Tables.PNG) | 
+| 82. [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Employee%20Earning.PNG) |
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
