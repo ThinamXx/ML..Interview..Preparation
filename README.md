@@ -190,6 +190,7 @@
 | 90. [Permutations II](https://leetcode.com/problems/permutations-ii/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20II.PNG) |
 | 91. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Count%20Good%20Nodes.PNG) |
 | 92. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Second%20Highest%20Salary.PNG) |
+| 93. [Triangle](https://leetcode.com/problems/triangle/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle%20P.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
