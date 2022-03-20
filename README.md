@@ -192,6 +192,7 @@
 | 92. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Second%20Highest%20Salary.PNG) |
 | 93. [Triangle](https://leetcode.com/problems/triangle/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle%20P.PNG) | 
 | 94. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sum%20Root.png) | 
+| 95. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20%20Binary%20Search%20Trees.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
