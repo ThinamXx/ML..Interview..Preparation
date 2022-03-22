@@ -193,6 +193,7 @@
 | 93. [Triangle](https://leetcode.com/problems/triangle/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Triangle%20P.PNG) | 
 | 94. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sum%20Root.png) | 
 | 95. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20%20Binary%20Search%20Trees.PNG) | 
+| 96. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Smallest%20Element%20in%20a%20BST.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
