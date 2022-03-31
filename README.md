@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -196,6 +195,7 @@
 | 95. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20%20Binary%20Search%20Trees.PNG) | 
 | 96. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Smallest%20Element%20in%20a%20BST.png) |
 | 97. [House Robber III](https://leetcode.com/problems/house-robber-iii/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20III.png) | 
+| 98. [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flip%20Equivalent%20BT.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
