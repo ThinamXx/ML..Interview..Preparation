@@ -203,3 +203,4 @@
 | 1. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Split%20Array.PNG) |
 | 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20Missing%20Positive.PNG) | 
 | 3. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Serialize%20%26%20Deserialize.png) | 
+| 4. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Maximum%20Path.png) | 
