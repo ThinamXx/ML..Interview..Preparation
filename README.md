@@ -198,6 +198,7 @@
 | 98. [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flip%20Equivalent%20BT.png) |
 | 99. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Flatten%20Binary%20Tree.png) | 
 | 100. [Find Bottom Left Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Find%20Bottom%20Left%20Tree.PNG) | 
+| 101. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Trim%20BST.PNG) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
