@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -77,7 +76,7 @@
 | 61. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Average%20of%20Levels.PNG) |
 | 62. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Depth.PNG) | 
 | 63. [Same Tree](https://leetcode.com/problems/same-tree/submissions/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Same%20Tree%20P.png)|
-| 64. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum.PNG) |
+| 64. [Path Sum](https://leetcode.com/problems/path-sum/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Path%20Sum%20N.PNG) |
 | 65. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Diameter%20of%20BT%20P.PNG) |
 | 66. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Descendent.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Lowest%20Common%20Ancestor.PNG) | 
 | 67. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20another%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Subtree%20of%20Another%20Tree%20N.png) |
