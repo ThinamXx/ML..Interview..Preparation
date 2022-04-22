@@ -200,6 +200,7 @@
 | 100. [Find Bottom Left Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Find%20Bottom%20Left%20Tree.PNG) | 
 | 101. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Trim%20BST.PNG) | 
 | 102. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Recover%20Binary%20Search%20Tree.PNG) | 
+| 103. [Partition List](https://leetcode.com/problems/partition-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Partition%20List.png) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
