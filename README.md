@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -184,7 +183,7 @@
 | 83. [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Count%20Sub%20Islands.PNG) | 
 | 84. [Sort List](https://leetcode.com/problems/sort-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sort%20List1.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Sort%20List2.PNG) | 
 | 85. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Reverse%20Linked%20List%202.PNG) | 
-| 86. [Rotate List](https://leetcode.com/problems/rotate-list/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20List.PNG) |
+| 86. [Rotate List](https://leetcode.com/problems/rotate-list/) | ✅✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20List.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20List%20N.png) |
 | 87. [Word Search](https://leetcode.com/problems/word-search/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Search.PNG) | 
 | 88. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/K%20Frequent%20Elements.PNG) | 
 | 89. [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths.PNG) | 
