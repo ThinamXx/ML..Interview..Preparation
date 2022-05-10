@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -110,7 +109,7 @@
 | 6. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Next%20Permutation.PNG) | 
 | 7. [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20and%20Last.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/First%20and%20Last%20Java.PNG) |
 | 8. [Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum.PNG) | 
-| 9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II.PNG) |
+| 9. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Combination%20Sum%20II%20N.PNG) |
 | 10. [Permutations](https://leetcode.com/problems/permutations/submissions/) | ✅✅ | [DFS](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Permutations%20P.PNG) |
 | 11. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Intervals.PNG) |
 | 12. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Unique%20Paths%20II.PNG) | 
