@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
@@ -206,6 +205,7 @@
 | 103. [Partition List](https://leetcode.com/problems/partition-list/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Partition%20List.png) | 
 | 104. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20All%20Adjacent%20Duplicates.PNG) | 
 | 105. [Rotate Image](https://leetcode.com/problems/rotate-image/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Image.png) | 
+| 106. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Network%20Delay%20Time.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
