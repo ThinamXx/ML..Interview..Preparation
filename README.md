@@ -206,6 +206,7 @@
 | 104. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20All%20Adjacent%20Duplicates.PNG) | 
 | 105. [Rotate Image](https://leetcode.com/problems/rotate-image/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Image.png) | 
 | 106. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Network%20Delay%20Time.png) |
+| 107. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Deepest%20Level%20Sum.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
