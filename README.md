@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -209,6 +208,7 @@
 | 105. [Rotate Image](https://leetcode.com/problems/rotate-image/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Image.png) | 
 | 106. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Network%20Delay%20Time.png) |
 | 107. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | ✅ | [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Deepest%20Level%20Sum.png) |
+| 108. [Jump Game](https://leetcode.com/problems/jump-game/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Jump.png) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
