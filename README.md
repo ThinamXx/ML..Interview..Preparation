@@ -103,7 +103,7 @@
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20Two%20Numbers%20N.png) |
-| 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring.PNG) |
+| 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Substring%20N.png) |
 | 3. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Letter%20Combinations.PNG) |
 | 4. [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Nth%20Node.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Nth%20Node%20N.PNG) | 
 | 5. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Divide.PNG) |
