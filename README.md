@@ -211,6 +211,7 @@
 | 108. [Jump Game](https://leetcode.com/problems/jump-game/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Jump.png) | 
 | 109. [Check If a String Contains All Binary Codes](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Check%20Binary%20Codes.png) | 
 | 110. [Car Pooling](https://leetcode.com/problems/car-pooling/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Car%20Pooling.png) | 
+| 111. [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/132%20Pattern.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
