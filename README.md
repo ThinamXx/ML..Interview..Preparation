@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -213,6 +212,7 @@
 | 109. [Check If a String Contains All Binary Codes](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Check%20Binary%20Codes.png) | 
 | 110. [Car Pooling](https://leetcode.com/problems/car-pooling/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Car%20Pooling.png) | 
 | 111. [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/132%20Pattern.png) |
+| 112. [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindromic%20Substring.png) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
