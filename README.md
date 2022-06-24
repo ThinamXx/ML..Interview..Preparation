@@ -2,7 +2,6 @@
 
 ![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
 
-
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
@@ -50,7 +49,7 @@
 | 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) |
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
 | 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Fizz%20Buzz.PNG) |
-| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) |
+| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram.png) |
 | 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Inorder%20Traversal%20N.png) |
 | 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Symmetric%20Tree.PNG) |
 | 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Absolute.PNG) |
