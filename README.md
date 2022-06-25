@@ -214,6 +214,7 @@
 | 111. [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/132%20Pattern.png) |
 | 112. [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Palindromic%20Substring.png) |
 | 113. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Search%20Suggestion.png) | 
+| 114. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Increasing%20Subsequence.png) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
