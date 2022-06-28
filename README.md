@@ -216,6 +216,7 @@
 | 113. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Search%20Suggestion.png) | 
 | 114. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Increasing%20Subsequence.png) |
 | 115. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Common%20Subsequence.png) | 
+| 116. [House Robber](https://leetcode.com/problems/house-robber/) | | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
