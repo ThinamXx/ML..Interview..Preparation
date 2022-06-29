@@ -217,7 +217,7 @@
 | 114. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Increasing%20Subsequence.png) |
 | 115. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Common%20Subsequence.png) | 
 | 116. [House Robber](https://leetcode.com/problems/house-robber/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber.png) |
-| 117. [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | :white_check_mark | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20II.png) |
+| 117. [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20II.png) |
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
