@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
@@ -32,7 +31,7 @@
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
-| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) |
+| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅:white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG)[Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicates%20N.png) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
 | 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
