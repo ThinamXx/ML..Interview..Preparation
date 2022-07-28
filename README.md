@@ -99,6 +99,7 @@
 | 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Stack%20Using%20Queue.PNG) |
 | 85. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Shift%202D%20Grid.png) | 
 | 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pivot.png) | 
+| 87. [Big Countries](https://leetcode.com/problems/big-countries/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Big%20Countries.png) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
