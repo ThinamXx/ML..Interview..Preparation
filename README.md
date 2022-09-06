@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
@@ -126,7 +125,7 @@
 | 18. [Clone Graph](https://leetcode.com/problems/clone-graph/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graph.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Clone%20Graphh.PNG) | 
 | 19. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Copy%20List%20with%20Random%20Pointer%20N.PNG)|
 | 20. [Word Break](https://leetcode.com/problems/word-break/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Word%20Break.PNG) |
-| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) |
+| 21. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20in%20Rotated.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/MinimumSortedArray.png) |
 | 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree%20Iterator%20N.png) | 
 | 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Array.PNG) |
 | 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Right%20Node.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Right%20Side.PNG) | 
