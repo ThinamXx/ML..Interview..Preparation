@@ -6,7 +6,6 @@
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
 - [**HackerRank**](https://www.hackerrank.com/dashboard)
 
-
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
 - **Deep Learning Interviews** -*Shlomo Kashani*
@@ -35,7 +34,7 @@
 | 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅:white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicates%20N.png) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
-| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) |
+| 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/ValidN.png) |
 | 23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Sorted%20Lists.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Merge%20Linked.PNG) |
 | 24. [Valid Palindrome](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome.PNG) | ✅✅ | [Python](https://leetcode.com/problems/valid-palindrome/submissions/) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Palindrome%20N.png) |
 | 25. [Japanese Cities Names II](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Select%20II.PNG) |
