@@ -227,6 +227,7 @@
 | 121. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Smallest%20BS.png) |
 | 122. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Consequtive.png) |
 | 123. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LongestNSub.png) | 
+| 124. [Non-Decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/NonDec.png) | 
 
 **HARD QUESTIONS**
 | Name of Question | Status of Completion | Solution |
