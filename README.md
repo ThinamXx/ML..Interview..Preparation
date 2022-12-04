@@ -101,7 +101,7 @@
 | 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pivot.png) | 
 | 87. [Big Countries](https://leetcode.com/problems/big-countries/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Big%20Countries.png) | 
 | 88. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Recyclable.png) | 
-| 89. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | ✅ | [Python]() | 
+| 89. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/MinimumCost%20N.png) | 
 
 **MEDIUM QUESTIONS**
 | Name of Question | Status of Completion | Solution |
