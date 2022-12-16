@@ -221,7 +221,7 @@
 | 114. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Increasing%20Subsequence.png) |
 | 115. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Common%20Subsequence.png) | 
 | 116. [House Robber](https://leetcode.com/problems/house-robber/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber.png) |
-| 117. [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20II.png) |
+| 117. [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20II.png) |
 | 118. [Decode Ways](https://leetcode.com/problems/decode-ways/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Decode%20Ways.png) | 
 | 119. [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Group%20Anagrams.png) | 
 | 120. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2D%20Matrix.png) | 
