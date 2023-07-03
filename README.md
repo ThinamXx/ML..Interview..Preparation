@@ -13,7 +13,7 @@
 **EASY QUESTIONS**
 | Name of Question | Status of Completion | Solution |
 | ----- | -----| ----- |
-| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2Sum.PNG) |
+| 1. [Two Sum](https://leetcode.com/problems/two-sum/) | ✅✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Two%20Sum.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2Sum.PNG) |
 | 2. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Roman2Integer.PNG) |
 | 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LCP.PNG) |
 | 4. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Intersection%20P.png) |
@@ -46,7 +46,7 @@
 | 31. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Excel%20Sheet%20ColumnI.PNG) |
 | 32. [Missing Number](https://leetcode.com/problems/missing-number/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number.PNG) [Java](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Missing%20Number%20Java.PNG) |
 | 33. [Single Number](https://leetcode.com/problems/single-number/submissions/) | ✅✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Single%20Number.PNG) |
-| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/PricesN.png) |
+| 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/PricesN.png) |
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
 | 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Fizz%20Buzz.PNG) |
 | 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅:white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram.png) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram%20NN.png) |
