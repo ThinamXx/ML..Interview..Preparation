@@ -1,7 +1,6 @@
 # **MACHINE LEARNING INTERVIEW PREPARATION**
 
-
-![Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/In.jpg)
+![Image](/Images/In.jpg)
 
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
@@ -32,7 +31,7 @@
 | 16. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20Stairs.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Climbing%20N.png) |
 | 17. [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Japanese%20Cities.PNG) |
 | 18. [Plus One](https://leetcode.com/problems/plus-one/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Plus%20One.PNG) |
-| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅:white_check_mark:✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicates%20N.png) |
+| 19. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Contains%20Duplicate.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Duplicates%20N.png) |
 | 20. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pascals%20Triangle.PNG) |
 | 21. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Delete%20Node.PNG) |
 | 22. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | ✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Parentheses.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/ValidN.png) |
@@ -50,7 +49,7 @@
 | 34. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | ✅✅✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Best%20Time%20To%20Buy.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/PricesN.png) |
 | 35. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Remove%20Duplicates.PNG) |
 | 36. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Fizz%20Buzz.PNG) |
-| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅:white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram.png) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram%20NN.png) |
+| 37. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Anagram.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram.png) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Valid%20Anagram%20NN.png) |
 | 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Inorder%20Traversal%20N.png) |
 | 39. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Symmetric%20Tree.PNG) |
 | 40. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Minimum%20Absolute.PNG) |
@@ -99,7 +98,7 @@
 | 83. [Binary Search](https://leetcode.com/problems/binary-search/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search.PNG) | 
 | 84. [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Stack%20Using%20Queue.PNG) |
 | 85. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Shift%202D%20Grid.png) | 
-| 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pivot.png) | 
+| 86. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Pivot.png) | 
 | 87. [Big Countries](https://leetcode.com/problems/big-countries/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Big%20Countries.png) | 
 | 88. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | ✅☮ | [SQL](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Recyclable.png) | 
 | 89. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/MinimumCost%20N.png) | 
@@ -131,7 +130,7 @@
 | 22. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Search%20Tree%20Iterator%20N.png) | 
 | 23. [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Rotate%20Array.PNG) |
 | 24. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅✅| [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Right%20Node.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Binary%20Tree%20Right%20Side.PNG) | 
-| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅:white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20N.png) |
+| 25. [Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20N.png) |
 | 26. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Course%20Schedule%20II.PNG) |
 | 27. [Design Add and Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Design%20Add%20and%20Search.PNG) [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Add%20%26%20Search.png) | 
 | 28. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/submissions/) | ✅ | [Image](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/String%20to%20Integer.PNG) | 
@@ -223,11 +222,11 @@
 | 115. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Common%20Subsequence.png) | 
 | 116. [House Robber](https://leetcode.com/problems/house-robber/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber.png) |
 | 117. [House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | ✅✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/House%20Robber%20II.png) |
-| 118. [Decode Ways](https://leetcode.com/problems/decode-ways/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Decode%20Ways.png) | 
-| 119. [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Group%20Anagrams.png) | 
-| 120. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2D%20Matrix.png) | 
-| 121. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Smallest%20BS.png) |
-| 122. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | :white_check_mark: | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Consequtive.png) |
+| 118. [Decode Ways](https://leetcode.com/problems/decode-ways/submissions/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Decode%20Ways.png) | 
+| 119. [Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Group%20Anagrams.png) | 
+| 120. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/2D%20Matrix.png) | 
+| 121. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Kth%20Smallest%20BS.png) |
+| 122. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |  | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/Longest%20Consequtive.png) |
 | 123. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/LongestNSub.png) | 
 | 124. [Non-Decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | ✅ | [Python](https://github.com/ThinamXx/ML..Interview..Preparation/blob/main/Images/NonDec.png) | 
 
